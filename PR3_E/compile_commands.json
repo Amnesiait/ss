@@ -1,0 +1,13 @@
+[{
+  "file": "D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3\\include\\inventory.h",
+  "directory": "D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3",
+  "command": "clang++ -c D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3\\include\\inventory.h -o D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3\\include\\inventory.h.o  -I. -I. -I./include  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3\\src\\main.c",
+  "directory": "D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3",
+  "command": "clang -c D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3\\src\\main.c -o D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3\\src\\main.c.o  -I. -I. -I./include  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3\\src\\inventory.c",
+  "directory": "D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3",
+  "command": "clang -c D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3\\src\\inventory.c -o D:\\UOC\\20251_SEMESTRE\\PR3\\PR3_E\\PR3\\src\\inventory.c.o  -I. -I. -I./include  -gdwarf-2  -O0  -Wall"
+ }]
